@@ -2,7 +2,7 @@
   {
     "enable": true,
     "versionName": "4.0.1(PU)_CN_V1",
-    "updateAt": "2025-01-24 21:00",
+    "updateAt": "2025-01-29 11:30",
     "info": "[汉化组] 简中全汉化",
     "game_channel": "PU",
     "note": "该版本由星际公民汉化组提供，纯中文版汉化"
@@ -10,7 +10,7 @@
   {
     "enable": true,
     "versionName": "4.0.1(PU)_CN_SEARCH_V1",
-    "updateAt": "2025-01-24 21:00",
+    "updateAt": "2025-01-29 11:30",
     "info": "[汉化组] 简中地点双语版",
     "game_channel": "PU",
     "note": "该版本由星际公民汉化组提供，为地点增加英文双语，便于搜索"
@@ -18,7 +18,7 @@
   {
     "enable": true,
     "versionName": "4.0.1(PU)_CNRSUI_V1",
-    "updateAt": "2025-01-24 21:00",
+    "updateAt": "2025-01-29 11:30",
     "info": "[社区] 简中双语增强汉化",
     "game_channel": "PU",
     "note": "由RSUI红星联合工业舰队提供的双语修改版本，基于社区汉化、游戏文本二次修改翻译。"
@@ -26,7 +26,7 @@
   {
     "enable": true,
     "versionName": "4.0.1(PU)_CNE_V1",
-    "updateAt": "2025-01-24 21:00",
+    "updateAt": "2025-01-29 11:30",
     "info": "[汉化组] 简中半汉化",
     "game_channel": "PU",
     "note": "该版本由星际公民汉化组提供，在全汉化的基础上保留了地面名称，载具名称，物品名称为英文。"
@@ -34,7 +34,7 @@
   {
     "enable": true,
     "versionName": "4.0.1(PU)_CNEN_V1",
-    "updateAt": "2025-01-24 21:00",
+    "updateAt": "2025-01-29 11:30",
     "info": "[汉化组] 简中双语汉化",
     "game_channel": "PU",
     "note": "该版本由星际公民汉化组提供，提供中英文双语显示。"
@@ -42,7 +42,7 @@
   {
     "enable": true,
     "versionName": "4.0.1(PU)_CN_PINYIN_V1",
-    "updateAt": "2025-01-24 21:00",
+    "updateAt": "2025-01-29 11:30",
     "info": "[汉化组] 简中拼音搜索汉化",
     "game_channel": "PU",
     "note": "由星际公民汉化组提供，为地点名称增加了拼音首字母后缀，便于搜索。"
