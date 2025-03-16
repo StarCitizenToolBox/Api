@@ -1,5 +1,10 @@
 [
     {
+        "name": "BarCitizen：北京",
+        "time": 1746806400000,
+        "icon": "bar_citizen.png"
+    },
+    {
         "name": "光灯节 Luminalia",
         "time": 1765555200000,
         "icon": "luminalia.png"
