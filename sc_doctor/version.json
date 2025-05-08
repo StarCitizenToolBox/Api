@@ -24,5 +24,6 @@
     ],
     "web_mirrors": {
         "https://www.erkul.games": "https://dps-mirrors.scbox.org"
-    }
+    },
+    "nav_42kit_url": "https://payload.citizenwiki.cn/api/community-navs?sort=is_sponsored&depth=2&page=1&limit=1000"
 }
