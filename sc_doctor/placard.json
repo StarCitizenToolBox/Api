@@ -1,9 +1,9 @@
 {
-    "version": "93284042-4072-419d-9c87-cbeadfcbefc5",
-    "title": "【汉化组】",
-    "content": "译名重投 | Favor | 物品",
-    "link": "https://support.citizenwiki.cn/d/274",
+    "version": "7b70bcd2-6307-4e7c-8f9a-9561ad52df6b",
+    "title": "【服务器更新】",
+    "content": "我们正在添加新的分发网络节点，以降低全球范围内的使用延迟，如出现服务异常，请及时反馈",
+    "link": "https://support.citizenwiki.cn/t/sc-toolbox",
     "link_type": "external",
     "always_show": false,
-    "enable": false
+    "enable": true
 }
