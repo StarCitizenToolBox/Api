@@ -23,5 +23,5 @@
         "HOTFIX"
     ],
     "web_mirrors": {},
-    "nav_42kit_url": "https://payload.citizenwiki.cn/api/community-navs?sort=is_sponsored&depth=2&page=1&limit=1000"
+    "nav_42kit_url": "https://ecdn.42nav.xkeyc.cn/api/community-navs?sort=is_sponsored&depth=2&page=1&limit=1000"
 }
