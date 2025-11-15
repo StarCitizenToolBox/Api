@@ -1,8 +1,14 @@
 [
-    {
-        "name": "Data.p4k",
-        "update_at": "2025-10-17 09:30",
-        "url": "https://git.scbox.xkeyc.cn/SCToolBox/Files/releases/download/Torrent/4.3.2-live.10452200_Data.p4k.torrent",
-        "info": "4.3.2-live.10452200"
-    }
+  {
+    "name": "Data.p4k",
+    "update_at": "2025-10-17 09:30",
+    "url": "https://git.scbox.xkeyc.cn/SCToolBox/Files/releases/download/Torrent/4.3.2-live.10452200_Data.p4k.torrent",
+    "info": "4.3.2-live.10452200"
+  },
+  {
+    "name": "opus-mt-zh-en.onnx",
+    "update_at": "2025-10-17 09:30",
+    "url": "https://ecdn.release.scbox.xkeyc.cn/onnx_models/opus-mt-zh-en/index.torrent",
+    "info": "ZH to English onnx model"
+  }
 ]
