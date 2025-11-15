@@ -1,8 +1,8 @@
 {
-    "version": "7b70bcd2-6307-4e7c-8f9a-9561ad52df6b",
-    "title": "【服务器更新】",
-    "content": "我们正在添加新的分发网络节点，以降低全球范围内的使用延迟，如出现服务异常，请及时反馈",
-    "link": "https://support.citizenwiki.cn/t/sc-toolbox",
+    "version": "752292d0-2de1-431c-85ea-f17f357d0ba0",
+    "title": "【公开测试】",
+    "content": "SC 汉化盒子 V2.15.1 Beta 公开测试版测试招募",
+    "link": "https://support.citizenwiki.cn/d/604",
     "link_type": "external",
     "always_show": false,
     "enable": true
