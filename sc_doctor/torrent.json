@@ -6,7 +6,7 @@
     "info": "4.3.2-live.10452200"
   },
   {
-    "name": "opus-mt-zh-en.onnx",
+    "name": "opus-mt-zh-en_onnx",
     "update_at": "2025-10-17 09:30",
     "url": "https://ecdn.release.scbox.xkeyc.cn/onnx_models/opus-mt-zh-en/index.torrent",
     "info": "ZH to English onnx model"
