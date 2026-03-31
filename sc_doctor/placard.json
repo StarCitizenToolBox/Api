@@ -1,9 +1,9 @@
 {
-    "version": "5ed1aa18-326e-4ced-9b53-df841fb67d5c",
-    "title": "【公开测试】",
-    "content": "汉化盒子 3.0.0 正在开发版测试中，测试过程中可能会有稳定性问题，欢迎反馈",
-    "link": "https://support.citizenwiki.cn/d/648",
+    "version": "37c7fe19-bfb2-4c7c-b304-5b68fe08c023",
+    "title": "【免责申明】",
+    "content": "请谨慎使用汉化盒子功能来触发游戏 BUG，由此造成的封号等损失汉化盒子概不负责！",
+    "link": "https://support.citizenwiki.cn/",
     "link_type": "external",
-    "always_show": false,
+    "always_show": true,
     "enable": true
 }
