@@ -4,7 +4,8 @@
     "chinese_(simplified)": [
       {
         "file": "chinese_(simplified)_blueprint.ini",
-        "version": "0.0.1"
+        "version": "0.0.1",
+        "name": "蓝图任务拓展"
       }
     ]
   }
