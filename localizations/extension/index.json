@@ -1,0 +1,11 @@
+{
+  "enable": true,
+  "languages": {
+    "chinese_(simplified)": [
+      {
+        "file": "chinese_(simplified)_blueprint.ini",
+        "version": "0.0.1"
+      }
+    ]
+  }
+}
