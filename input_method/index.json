@@ -1,9 +1,13 @@
 {
-    "enable": true,
-    "languages": {
-        "chinese_(simplified)": {
-            "file": "chinese_(simplified).txt",
-            "version": "0.0.1"
-        }
+  "enable": true,
+  "languages": {
+    "chinese_(simplified)": {
+      "file": "chinese_(simplified).txt",
+      "version": "0.0.1"
+    },
+    "chinese_(traditional)": {
+      "file": "chinese_(traditional).txt",
+      "version": "0.0.1"
     }
+  }
 }
