@@ -1,7 +1,7 @@
 [
   {
     "enable": true,
-    "versionName": "4.8.1(PU)_TW_V2",
+    "versionName": "4.8.0(PU)_TW_V2",
     "updateAt": "2026-06-06 19:00",
     "info": "繁體中文本地化（TW）",
     "game_channel": "PU",
@@ -9,7 +9,7 @@
   },
   {
     "enable": true,
-    "versionName": "4.8.1(PTU)_TW_V2",
+    "versionName": "4.8.0(PTU)_TW_V2",
     "updateAt": "2026-06-06 19:00",
     "info": "繁體中文本地化（TW）",
     "game_channel": "PTU",
